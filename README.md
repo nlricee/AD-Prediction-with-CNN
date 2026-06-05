@@ -11,6 +11,9 @@ The purpose of this project aims to determine if a simple 2D CNN
 can be used to efficiently predict Alzheimer's Disease, shifting
 from traditional methods that consists of multiple assessments 
 to quicker analysis. 
+Further explanations of methodologies are listed under code comments, 
+or my research paper below:
+https://docs.google.com/document/d/1mmKlXFxRexaR3F4F7-Rf1tz1NeSX8-xCp9jYj9H9osU/edit?usp=sharing
 The testing and training dataset is sourced from Kaggle:
 https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented/data
 
